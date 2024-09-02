@@ -1,1 +1,2 @@
 # maki-apparel
+I designed and developed a dynamic e-commerce website for clothing using CSS, PHP on apache server with a MySQL database. Leveraging my expertise in Relational Database Management Systems (RDBMS), I created a robust back-end to support two types of users: customers and administrators. Customers could browse products, add items to their cart, and place orders, while administrators had comprehensive control over product management, order fulfillment, and user management. After rigorous testing, I successfully deployed the site on Hostinger.
